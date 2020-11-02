@@ -1,4 +1,4 @@
-package hello
+package testgomod
 
 import "testing"
 
