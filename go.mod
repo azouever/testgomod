@@ -1,3 +1,3 @@
-module github.com/azouever/testgomod/v2
+module github.com/azouever/testgomod/v3
 
 go 1.14
