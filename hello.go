@@ -16,3 +16,8 @@ func main() {
 	age := 25
 	fmt.Printf("hello, %s ,%d .from vscode",name,age)
 }
+
+// it's better only have one init function in one package 
+func init(){
+	println("import package will be executed only once")
+}
