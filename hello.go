@@ -4,7 +4,7 @@ import "fmt"
 
 var name = "xkx"
 
-func hello(name string) string {
+func Hello(name string) string {
 	return "hello, " + name
 }
 
