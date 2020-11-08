@@ -1,4 +1,4 @@
-package azouever/testgomod
+package testgomod
 
 import "fmt"
 
